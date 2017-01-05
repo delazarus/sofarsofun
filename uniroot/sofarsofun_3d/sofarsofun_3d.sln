@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sofarsofun_3d", "sofarsofun_3d.csproj", "{1C9FB937-A923-D935-2C8F-B659DB4FFA4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sofarsofun_3d.Editor", "sofarsofun_3d.Editor.csproj", "{2D9C6E0D-CFEB-EDBF-90F0-52535B109991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C9FB937-A923-D935-2C8F-B659DB4FFA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9FB937-A923-D935-2C8F-B659DB4FFA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9FB937-A923-D935-2C8F-B659DB4FFA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9FB937-A923-D935-2C8F-B659DB4FFA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9C6E0D-CFEB-EDBF-90F0-52535B109991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9C6E0D-CFEB-EDBF-90F0-52535B109991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9C6E0D-CFEB-EDBF-90F0-52535B109991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9C6E0D-CFEB-EDBF-90F0-52535B109991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
