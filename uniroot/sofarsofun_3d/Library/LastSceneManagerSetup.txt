@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/room 1.unity
+- path: Assets/room_2d.unity
   isLoaded: 1
   isActive: 1
